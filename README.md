@@ -1,2 +1,2 @@
 # Google-Clone
-Google clone using HTML and CSS
+A web clone of the main page of google.com 
