@@ -26,6 +26,7 @@ header nav .nav-right-section {
     list-style: none;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
 }
 nav .nav-right-section a {
     margin-right: 10px;
