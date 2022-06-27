@@ -32,6 +32,11 @@ nav .nav-right-section a {
     margin-right: 10px;
     color: #000000;
 }
+
+a:hover {
+    text-decoration: underline;
+  }
+
 nav .nav-right-section .menu-icon {
     background-image: url('https://static.thenounproject.com/png/756729-200.png');
     background-repeat: no-repeat;
